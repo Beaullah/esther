@@ -1,2 +1,1 @@
-# esther
-A shopping project
+
